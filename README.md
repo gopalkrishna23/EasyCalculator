@@ -1,84 +1,85 @@
-#Easy Calculator
+# Easy Calculator
 
-Introduction
+Welcome to **Easy Calculator**, a simple yet powerful calculator built using HTML, CSS, and JavaScript. This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division with a user-friendly interface.
 
-Easy Calculator is a simple, user-friendly web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The interface is designed to be responsive and visually appealing, using Bootstrap for styling and layout.
+## Features
 
-Features
+- **Basic Arithmetic Operations**: Add, subtract, multiply, and divide numbers.
+- **Clean Interface**: Simple and intuitive design for seamless user experience.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Clear and Reset Functionality**: One-click reset to start over.
 
-Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (×), and Division (/)
 
-Clear button to reset the calculation
+## Technologies Used
 
-Percentage (%) functionality
+- **HTML**: Structure of the page.
+- **CSS**: Styling and layout, using Bootstrap for responsiveness.
+- **JavaScript**: Dynamic functionality, event handling, and calculations.
+- **FontAwesome**: Icons for better UI experience.
+- **Google Fonts**: Stylish fonts for enhanced appearance
 
-User-friendly interface with responsive design
+## How to Use
 
-Error handling for invalid calculations
+Clone or download this repository.
 
-Technologies Used
+git clone <repository-url>
 
-HTML: Structure of the calculator
+Open index.html in any web browser.
 
-CSS: Styling and layout with Bootstrap
+Click on the buttons to perform calculations.
 
-JavaScript: Logic for handling button clicks and performing calculations
+Press C to clear the screen.
 
-Bootstrap: For responsive design and layout
+Use = to evaluate expressions.
 
-Font Awesome: Icons for buttons
-
-Installation & Usage
-
-Clone or download the repository:
-
-git clone https://github.com/your-username/easy-calculator.git
-
-Open the index.html file in a web browser.
-
-Click on the calculator buttons to perform operations.
-
-File Structure
+## File Structure
 
 Easy-Calculator/
-│── index.html   # Main HTML file
-│── style.css    # Stylesheet
-│── script.js    # JavaScript for functionality
-│── README.md    # Project documentation
+│-- index.html      # Main HTML file
+│-- style.css       # Stylesheet for UI
+│-- script.js       # JavaScript for functionality
+└── README.md       # Project documentation
 
-How It Works
 
-When a button is clicked, its value is added to the display.
+## Installation
 
-Pressing = evaluates the mathematical expression using JavaScript's eval() function.
+To run the project locally:
 
-Pressing C clears the display.
+1. Clone the repository:
 
-The multiplication (x) button is internally converted to * for calculation.
+   ```bash
+   git clone https://github.com/your-username/EasyCalc.git
 
-Known Issues
+## Contributing
 
-The calculator currently uses eval(), which can be unsafe. Future improvements may replace this with a safer evaluation method.
+Feel free to contribute by submitting a pull request or reporting issues.
 
-The UI can be further enhanced with animations and better error handling.
+## Author
 
-Future Improvements
+Developed by Gopala Krishna Pinapathuni.
 
-Adding support for more advanced operations like square roots and exponents.
+## Linkedin
+https://www.linkedin.com/in/gopala-krishna-7a38442a7/
 
-Improving error handling for invalid input.
 
-Enhancing UI/UX with animations and a dark mode option.
 
-Adding keyboard support for input.
 
-Implementing a history feature to keep track of previous calculations.
 
-License
 
-This project is open-source and available under the MIT License.
 
-Author
 
-Your NameGitHub | LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
