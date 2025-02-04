@@ -1,4 +1,4 @@
-Easy Calculator
+###Easy Calculator
 
 Introduction
 
